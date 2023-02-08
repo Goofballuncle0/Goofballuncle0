@@ -3,7 +3,6 @@
 <!--
 **Goofballuncle0/Goofballuncle0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my twitch channel
 - 🌱 I’m currently learning to create overlays, transitions, and tools to build my live streams. Also using blender to build an intro. 
